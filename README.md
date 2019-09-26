@@ -10,11 +10,7 @@
 ## in root type:
 ### `npm install`
 
-<br/>
-
 ## then :
 ### `npm start` 
-
-<br/>
 
 ### App will run on http://localhost:3000/
