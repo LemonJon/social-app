@@ -1,0 +1,25 @@
+html,
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe Ui", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    Sans-serif;
+
+  background-color: rgb(251, 251, 251);
+}
+
+.container {
+  margin: 80px auto 0px auto;
+  max-width: 1200px;
+}
+
+.nav-container {
+  margin: auto;
+}
+.nav-container svg {
+  color: white;
+}
+a,
+a:visited {
+  text-decoration: none;
+  color: #000;
+}
