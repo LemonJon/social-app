@@ -1,6 +1,6 @@
 #### A basic Twitter clone. Made with React, Node and Firebase.
 
-## additinal Tools and librarys:
+<b>Additinal Tools and librarys:</b>
 <ul>
   <li>material-ui</li>
   <li>DayJS</li>
